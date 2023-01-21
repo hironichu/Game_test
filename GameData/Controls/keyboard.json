@@ -1,0 +1,9 @@
+{
+  "keybinds": {
+		"a": "left",
+		"w": "up",
+		"d": "right",
+		"s": "down",
+		" ": "dash"
+	}
+}

@@ -1,0 +1,15 @@
+export enum PacketType {
+  Auth,
+  Ping,
+  Pong,
+  ReQ,
+  ReQResponse,
+  ReQError,
+  ReQSuccess,
+  ReQErrorResponse,
+  ReQSuccessResponse,
+  GameData,
+  GameDataResponse,
+  GameDataError,
+  GameDataSuccess,
+}

@@ -1,0 +1,7 @@
+{
+    "imports": {
+        "dwmc": "../dwm/dwm/ext/canvas.ts",
+        "dwm": "../dwm/dwm/mod.ts",
+        "math": "./Engine/Math/mod.ts"
+    }
+}

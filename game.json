@@ -1,0 +1,62 @@
+{
+    "version": "0.0.0",
+    "_internal": {
+        "_monitor": {
+            "name": "Generic PnP Monitor",
+            "videoMode": {
+                "width": 1920,
+                "height": 1080,
+                "redBits": 8,
+                "greenBits": 8,
+                "blueBits": 8,
+                "refreshRate": 75
+            },
+            "contentScale": {
+                "x": 1,
+                "y": 1
+            },
+            "workArea": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1032
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "settings": {
+        "installLocation": "C:\\Users\\hiron\\Documents\\Projects\\portage_game",
+        "audio": {
+            "masterVolume": 1,
+            "musicVolume": 1,
+            "sfxVolume": 1
+        },
+        "controls": {
+            "mouse": {
+                "sensitivity": 1,
+                "rawInput": false
+            },
+            "input": {
+                "selected": "keyboard",
+                "keyboard": {
+                    "binds": "./GameData/Controls/keyboard.json"
+                },
+                "gamepad": {
+                    "binds": ""
+                }
+            }
+        },
+        "graphics": {
+            "fpsLimit": 75,
+            "fullscreen": true,
+            "resolution": {
+                "width": 1920,
+                "height": 1032
+            },
+            "borderless": true
+        }
+    }
+}
